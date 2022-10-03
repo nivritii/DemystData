@@ -35,7 +35,7 @@ bla-api is the backend of the application which uses Typescript + Node JS.
 - User can select buisness and provider from the dropdown list populated in homeoage and provide loan amount to verify if that business is eligible for loan.
 
 - On form submit, backend call is made to retrieve monthwise profit data of the buisness with the selected provider.
-  e.g: `http://localhost:6060/balance?provider=MYOB&business=business_2` - Provider and Business will be sent as query param to backend
+  e.g: `http://localhost:6060/balance?provider=MYOB&business=business_2` - Provider and Business sent as query param
 
 - 
  
