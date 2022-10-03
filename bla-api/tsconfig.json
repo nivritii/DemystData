@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "resolveJsonModule": true,
+        "experimentalDecorators": true,
+        //   "baseUrl": "/bla/api/",
+        "target": "es6",
+        "module": "commonjs",
+        "outDir": "dist",
+        "rootDir": "src",
+        "strict": true,
+        "moduleResolution": "node",
+        "esModuleInterop": true
+    },
+    "paths": {
+        "@overnightjs/core": [
+            "../src/core"
+        ],
+        "@overnightjs/jwt": [
+            "../src/jwt"
+        ],
+        "@overnightjs/logger": [
+            "../src/logger"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "src"
+    ]
+}

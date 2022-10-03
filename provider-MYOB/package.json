@@ -1,0 +1,15 @@
+{
+  "name": "provider-MYOB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch  -p 4002 db.json --host 0.0.0.0",
+    "start:remote": "json-server https://jsonplaceholder.typicode.com/db"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

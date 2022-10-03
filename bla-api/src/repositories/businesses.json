@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "business_1",
+        "year": 2020
+    },
+    {
+        "id": 2,
+        "name": "business_2",
+        "year": 2019
+    },
+    {
+        "id": 3,
+        "name": "business_3",
+        "year": 2021
+    }
+]

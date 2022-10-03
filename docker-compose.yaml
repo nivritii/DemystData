@@ -1,0 +1,33 @@
+version: "3.9"
+services:
+  bla-web:
+    build: bla-web/
+    restart: always
+    ports:
+      - "45000:45000"
+    depends_on:
+      - bla-api
+  bla-api:
+    build: bla-api/
+    restart: always
+    ports:
+      - "6060:6060"
+    depends_on:
+      - decision-engine
+      - xero
+      - myob
+  decision-engine:
+    build: decision-engine/
+    restart: always
+    ports:
+      - "5005:5005"
+  xero:
+    build: provider-xero/
+    restart: always
+    ports:
+      - "4001:4001"
+  myob:
+    build: provider-MYOB/
+    restart: always
+    ports:
+      - "4002:4002"

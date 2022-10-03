@@ -1,0 +1,13 @@
+{
+    "accountProviders": {
+        "Xero": {
+            "endpoint": "http://xero:4001/"
+        },
+        "MYOB": {
+            "endpoint": "http://myob:4002/"
+        }
+    },
+    "decisionEngine": {
+        "endpoint": "http://decision-engine:5005/loanResult"
+    }
+}
