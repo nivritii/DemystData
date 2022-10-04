@@ -22,8 +22,8 @@ Fronend running on port 45000
 #### Application Flow
 1. Load `localhost:45000/bla`:
   Homepage loaded. Restful API calls will be initiated to backend to retrieve details of, 
-  1. Businesses - By making restful API to backend endpoint: `GET /businesses`
-  2. Loan providers - By making restful API to backend endpoint: `GET /providers`
+  - Businesses - By making restful API to backend endpoint: `GET /businesses`
+  - Loan providers - By making restful API to backend endpoint: `GET /providers`
   
   User can select business and provider from the dropdown list populated in homepage and provide loan amount and click on submit.
 
