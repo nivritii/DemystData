@@ -2,9 +2,9 @@
     "compilerOptions": {
         "resolveJsonModule": true,
         "experimentalDecorators": true,
-        //   "baseUrl": "/bla/api/",
-        "target": "es6",
+        "baseUrl": "./",
         "module": "commonjs",
+        "target": "es6",
         "outDir": "dist",
         "rootDir": "src",
         "strict": true,
@@ -12,6 +12,7 @@
         "esModuleInterop": true
     },
     "paths": {
+        "test/*": ["__test__/*"],
         "@overnightjs/core": [
             "../src/core"
         ],

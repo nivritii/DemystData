@@ -24,6 +24,54 @@
                 "month": 9,
                 "profitOrLoss": -187000,
                 "assetsValue": 223452
+            },
+            {
+                "year": 2020,
+                "month": 8,
+                "profitOrLoss": -187000,
+                "assetsValue": 3423
+            },
+            {
+                "year": 2020,
+                "month": 7,
+                "profitOrLoss": -150000,
+                "assetsValue": 12123
+            },
+            {
+                "year": 2020,
+                "month": 6,
+                "profitOrLoss": -120000,
+                "assetsValue": 34123
+            },
+            {
+                "year": 2020,
+                "month": 5,
+                "profitOrLoss": -110000,
+                "assetsValue": 12312
+            },
+            {
+                "year": 2020,
+                "month": 4,
+                "profitOrLoss": -100000,
+                "assetsValue": 13312
+            },
+            {
+                "year": 2020,
+                "month": 3,
+                "profitOrLoss": -90000,
+                "assetsValue": 12312
+            },
+            {
+                "year": 2020,
+                "month": 2,
+                "profitOrLoss": -80000,
+                "assetsValue": 12312
+            },
+            {
+                "year": 2020,
+                "month": 1,
+                "profitOrLoss": -70000,
+                "assetsValue": 12321
             }
         ]
     },
@@ -52,6 +100,54 @@
                 "month": 9,
                 "profitOrLoss": -187000,
                 "assetsValue": 223452
+            },
+            {
+                "year": 2029,
+                "month": 8,
+                "profitOrLoss": 187000,
+                "assetsValue": 3423
+            },
+            {
+                "year": 2019,
+                "month": 7,
+                "profitOrLoss": 150000,
+                "assetsValue": 12123
+            },
+            {
+                "year": 2019,
+                "month": 6,
+                "profitOrLoss": 120000,
+                "assetsValue": 34123
+            },
+            {
+                "year": 2019,
+                "month": 5,
+                "profitOrLoss": 110000,
+                "assetsValue": 12312
+            },
+            {
+                "year": 2019,
+                "month": 4,
+                "profitOrLoss": 100000,
+                "assetsValue": 13312
+            },
+            {
+                "year": 2019,
+                "month": 3,
+                "profitOrLoss": -90000,
+                "assetsValue": 12312
+            },
+            {
+                "year": 2019,
+                "month": 2,
+                "profitOrLoss": -80000,
+                "assetsValue": 12312
+            },
+            {
+                "year": 2019,
+                "month": 1,
+                "profitOrLoss": -70000,
+                "assetsValue": 12321
             }
         ]
     },
@@ -80,6 +176,54 @@
                 "month": 9,
                 "profitOrLoss": -187000,
                 "assetsValue": 223452
+            },
+            {
+                "year": 2021,
+                "month": 8,
+                "profitOrLoss": -187000,
+                "assetsValue": 3423
+            },
+            {
+                "year": 2021,
+                "month": 7,
+                "profitOrLoss": -150000,
+                "assetsValue": 1212
+            },
+            {
+                "year": 2021,
+                "month": 6,
+                "profitOrLoss": -120000,
+                "assetsValue": 3412
+            },
+            {
+                "year": 2021,
+                "month": 5,
+                "profitOrLoss": -110000,
+                "assetsValue": 1231
+            },
+            {
+                "year": 2021,
+                "month": 4,
+                "profitOrLoss": -100000,
+                "assetsValue": 1331
+            },
+            {
+                "year": 2021,
+                "month": 3,
+                "profitOrLoss": -90000,
+                "assetsValue": 1231
+            },
+            {
+                "year": 2021,
+                "month": 2,
+                "profitOrLoss": -80000,
+                "assetsValue": 1231
+            },
+            {
+                "year": 2021,
+                "month": 1,
+                "profitOrLoss": -70000,
+                "assetsValue": 1232
             }
         ]
     }

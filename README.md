@@ -32,9 +32,9 @@ bla-api is the backend of the application which uses Typescript + Node JS.
   1. Businesses - By making restful API to backend endpoint: `http://localhost:6060/businesses`
   2. Application software providers - By making restful API to backend endpoint: `http://localhost:6060/providers`
   
-- User can select buisness and provider from the dropdown list populated in homeoage and provide loan amount to verify if that business is eligible for loan.
+- User can select business and provider from the dropdown list populated in homepage and provide loan amount to verify if that business is eligible for loan.
 
-- On form submit, backend call is made to retrieve monthwise profit data of the buisness with the selected provider.
+- On form submit, backend call is made to retrieve monthly profit data of the business with the selected provider.
   e.g: `http://localhost:6060/balance?provider=MYOB&business=business_2` - Provider and Business sent as query param
 
 - 

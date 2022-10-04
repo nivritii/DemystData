@@ -18,7 +18,6 @@ const getLoanDecision = async function (sheets: IBalanceSheet[], business: any, 
 
     const decisionEngine = config.decisionEngine;
     const res = await axios.post(decisionEngine.endpoint, { business, overallProfit, preAssessment });
-    console.log(res.data);
     return res.data;
 
 };
